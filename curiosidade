@@ -1,0 +1,79 @@
+mindmap
+  root((Elicitação de Requisitos de Software))
+    Definição:
+      "Processo de descobrir, reunir e documentar as necessidades dos stakeholders e as restrições do sistema."
+    Fontes de Requisitos:
+      Stakeholders:
+        Usuários Finais
+        Clientes
+        Gerentes
+        Analistas de Negócios
+        Especialistas de Domínio
+        Equipe de Desenvolvimento
+        Testadores
+        Equipe de Suporte
+        Reguladores/Órgãos Governamentais
+      Documentos:
+        Documentos de Negócios
+        Manuais de Usuário de Sistemas Existentes
+        Relatórios de Mercado
+        Padrões e Regulamentações
+        Casos de Uso Existentes
+        Especificações de Sistemas Legados
+      Sistemas Existentes:
+        Análise de Sistemas Legados
+        Engenharia Reversa
+        Observação do Uso
+      Ambiente:
+        Contexto Organizacional
+        Cultura da Empresa
+        Restrições de Mercado
+        Concorrência
+      Objetivos de Negócios:
+        Metas Estratégicas
+        Necessidades de Negócios
+        Oportunidades de Mercado
+    Técnicas de Elicitação:
+      Entrevistas:
+        Estruturadas
+        Não Estruturadas
+        Semiestruturadas
+        Em Grupo
+      Questionários:
+        Abertos
+        Fechados
+        Escala de Likert
+      Workshops/Brainstorming:
+        Sessões Criativas
+        Discussão em Grupo
+        Priorização de Ideias
+      Análise de Documentos:
+        Identificação de Requisitos Implícitos e Explícitos
+        Análise de Consistência
+      Observação:
+        Acompanhamento do Trabalho do Usuário
+        Análise de Processos
+        Etnografia
+      Prototipagem:
+        Protótipos de Interface
+        Protótipos de Funcionalidade
+        Protótipos Descartáveis
+        Protótipos Evolucionários
+      Casos de Uso:
+        Identificação de Atores
+        Descrição de Cenários
+        Fluxo Principal e Alternativos
+      Cenários:
+        Narrativas de Uso
+        Foco na Interação Usuário-Sistema
+      Storyboards:
+        Visualização da Interação
+        Sequência de Telas
+      Técnicas Colaborativas:
+        JAD (Joint Application Development)
+        RAD (Rapid Application Development)
+      Engenharia Reversa:
+        Extração de Requisitos de Sistemas Existentes
+      Mineração de Dados:
+        Identificação de Padrões de Uso
+        Descoberta de Necessidades
